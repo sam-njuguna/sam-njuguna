@@ -1,8 +1,9 @@
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 # Hello, I'm Samson Njuguna 👋
 
 I'm a passionate front-end web developer with a love for creating beautiful and responsive user interfaces. Welcome to my GitHub profile!
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 ## About Me
 
 - 🔭 I'm currently working on [Your Current Project].

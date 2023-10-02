@@ -1,16 +1,20 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 # Hello, I'm Samson Njuguna 👋
 
-I'm a passionate front-end web developer with a love for creating beautiful and responsive user interfaces. Welcome to my GitHub profile!
+<p width="50%">I'm a passionate front-end web developer with a love for creating beautiful and responsive user interfaces. Welcome to my GitHub profile! </p>
 
 ## About Me
 
-- 🔭 I'm currently working on [Your Current Project].
-- 🌱 I'm constantly learning and improving my skills in HTML, CSS, and JavaScript.
+<div  width="50%">
+  
+- 🔭 I'm currently working on [Your Current Project].  
+- 🌱 I'm constantly learning and improving my skills in Next js, React js, and Typescript
 - 💬 Ask me about web development, UI/UX design, or anything related to the web.
 - 📫 How to reach me: sam.x.njuguna@gmail.com.
 - 😄 Pronouns: He/Him.
+</div>
 
 ## Skills
 

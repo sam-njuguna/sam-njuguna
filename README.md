@@ -7,8 +7,8 @@ I'm a passionate frontend web developer with a love for creating beautiful and r
 - 🔭 I'm currently working on [Your Current Project].
 - 🌱 I'm constantly learning and improving my skills in HTML, CSS, and JavaScript.
 - 💬 Ask me about web development, UI/UX design, or anything related to the web.
-- 📫 How to reach me: [Your Email Address]
-- 😄 Pronouns: [Your Pronouns, e.g., He/Him]
+- 📫 How to reach me: sam.x.njuguna@gmail.com.
+- 😄 Pronouns: He/Him.
 
 ## Skills
 

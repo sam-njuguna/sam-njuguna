@@ -1,2 +1,53 @@
-### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-njuguna&show_icons=true&theme=transparent)
+# Hello, I'm Samson Njuguna 👋
+
+I'm a passionate frontend web developer with a love for creating beautiful and responsive user interfaces. Welcome to my GitHub profile!
+
+## About Me
+
+- 🔭 I'm currently working on [Your Current Project].
+- 🌱 I'm constantly learning and improving my skills in HTML, CSS, and JavaScript.
+- 💬 Ask me about web development, UI/UX design, or anything related to the web.
+- 📫 How to reach me: [Your Email Address]
+- 😄 Pronouns: [Your Pronouns, e.g., He/Him]
+
+## Skills
+
+Here are some of the technologies and tools I'm proficient in:
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
+- 🔧 Tools: VS Code, Git, GitHub, and  Figma.
+- 🧰 Frameworks and Libraries: [List any other frameworks or libraries you are familiar with]
+
+
+
+## Connect with Me
+
+You can find me on various social media platforms:
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourlinkedinusername)
+[![GitHub](https://img.shields.io/badge/GitHub-YourGitHubUsername-181717?style=for-the-badge&logo=github)](https://github.com/YourGitHubUsername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-YourPortfolioURL-orange?style=for-the-badge)](https://www.yourportfolio.com)
+[![Gmail](https://img.shields.io/badge/Gmail-YourEmail-red?style=for-the-badge&logo=gmail)](mailto:youremail@example.com)
+
+
+Feel free to reach out to me for collaboration or just to say hello!
+
+## My Projects
+
+Here are some of the projects I've worked on:
+
+- [Project 1](https://github.com/yourusername/project1): Short project description.
+- [Project 2](https://github.com/yourusername/project2): Short project description.
+- [Project 3](https://github.com/yourusername/project3): Short project description.
+
+Thank you for visiting my GitHub profile! 😊

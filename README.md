@@ -2,7 +2,7 @@
 # Hello, I'm Samson Njuguna 👋
 
 I'm a passionate front-end web developer with a love for creating beautiful and responsive user interfaces. Welcome to my GitHub profile!
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 ## About Me
 
 - 🔭 I'm currently working on [Your Current Project].
@@ -41,6 +41,9 @@ You can find me on various social media platforms:
 
 
 Feel free to reach out to me for collaboration or just to say hello!
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sam-njuguna&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ## My Projects
 

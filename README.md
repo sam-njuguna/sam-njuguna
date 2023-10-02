@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
 
 # Hello, I'm Samson Njuguna 👋
 
@@ -54,8 +54,8 @@ Feel free to reach out to me for collaboration or just to say hello!
 
 Here are some of the projects I've worked on:
 
-- [Project 1](https://github.com/yourusername/project1): Short project description.
-- [Project 2](https://github.com/yourusername/project2): Short project description.
-- [Project 3](https://github.com/yourusername/project3): Short project description.
+- [ChatGBT UI Clone](https://github.com/yourusername/project1): Short project description.
+- [Safaricana](https://github.com/yourusername/project2): Short project description.
+- [Mireya](https://github.com/yourusername/project3): Short project description.
 
 Thank you for visiting my GitHub profile! 😊

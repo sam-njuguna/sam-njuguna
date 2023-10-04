@@ -57,8 +57,8 @@ Feel free to reach out to me for collaboration or just to say hello!
 
 Here are some of the projects I've worked on:
 
-- [ChatGBT UI Clone](https://github.com/yourusername/project1): Short project description.
-- [Safaricana](https://github.com/yourusername/project2): Short project description.
-- [Mireya](https://github.com/yourusername/project3): Short project description.
+- [ChatGBT UI Clone](https://gptc-ui.vercel.app/): It's just a chatGPT UI without the functionality.
+- [Safaricana](https://safaricana.vercel.app/): Enthralling Exploration of Africa.
+- [Mireya](https://mireya.vercel.app/): Tailored project to help homeowners showcase their unique style and transform their living spaces into stunning works of art.
 
-Thank you for visiting my GitHub profile! 😊
+**Thank you for visiting my GitHub profile! 😊**

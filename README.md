@@ -34,7 +34,7 @@ Here are some of the technologies and tools I'm proficient in:
 - 🧰 Frameworks and Libraries: [List any other frameworks or libraries you are familiar with]
 
 
-| <a href="https://github.com/sam-njuguna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sam-njuguna&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/sam-njuguna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-njuguna&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/sam-njuguna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sam-njuguna&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/sam-njuguna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-njuguna&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
@@ -51,15 +51,6 @@ You can find me on various social media platforms:
 
 Feel free to reach out to me for collaboration or just to say hello!
 
-
-
-
-
-### 🔝 Top Contributed Repo
-
-<a href="https://github.com/sam-njuguna/chatGPT-clone">
-  <img align="center" src="https://gptc-ui.vercel.app/api/pin/?username=sam-njuguna&repo=chatGPT-clone&theme=buefy" />
-</a>
 
 
 ## My Projects

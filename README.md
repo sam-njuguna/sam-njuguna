@@ -30,10 +30,12 @@ Here are some of the technologies and tools I'm proficient in:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-
-
 - 🔧 Tools: VS Code, Git, GitHub, and  Figma.
 - 🧰 Frameworks and Libraries: [List any other frameworks or libraries you are familiar with]
+
+
+| <a href="https://github.com/sam-njuguna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sam-njuguna&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/sam-njuguna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-njuguna&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 
@@ -49,8 +51,18 @@ You can find me on various social media platforms:
 
 Feel free to reach out to me for collaboration or just to say hello!
 
+
+
+
+
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sam-njuguna&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+<a href="https://github.com/sam-nuguna/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sam-njuguna&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/sam-njuguna/gptc-ui.vercel.app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sam-njuguna&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 
 ## My Projects
 

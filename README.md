@@ -57,12 +57,10 @@ Feel free to reach out to me for collaboration or just to say hello!
 
 ### 🔝 Top Contributed Repo
 
-<a href="https://github.com/sam-nuguna/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sam-njuguna&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/sam-njuguna/chatGPT-clone">
+  <img align="center" src="https://gptc-ui.vercel.app/api/pin/?username=sam-njuguna&repo=chatGPT-clone&theme=buefy" />
 </a>
-<a href="https://github.com/sam-njuguna/gptc-ui.vercel.app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sam-njuguna&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+
 
 ## My Projects
 

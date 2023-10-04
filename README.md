@@ -3,7 +3,8 @@
 
 # Hello, I'm Samson Njuguna 👋
 
-<p width="50%">I'm a passionate front-end web developer with a love for creating beautiful and responsive user interfaces. Welcome to my GitHub profile! </p>
+<p width="50%">I'm an enthusiastic front-end web developer dedicated to crafting stunning and user-friendly interfaces. **Welcome to my GitHub profile!** </p>
+
 
 ## About Me
 

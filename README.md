@@ -55,7 +55,7 @@ Feel free to reach out to me for collaboration or just to say hello!
 
 ## My Projects
 
-Here are some of the projects I've worked on:
+Here are some of the personal projects that I've worked on:
 
 - [ChatGBT UI Clone](https://gptc-ui.vercel.app/): It's just a chatGPT UI without the functionality.
 - [Safaricana](https://safaricana.vercel.app/): Enthralling Exploration of Africa.

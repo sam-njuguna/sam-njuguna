@@ -42,7 +42,7 @@ Here are some of the technologies and tools I'm proficient in:
 
 
 
-## Connect with Me
+## Let's Connect 
 
 You can find me on various social media platforms:
 

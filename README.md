@@ -9,15 +9,12 @@ dedicated to crafting stunning and user-friendly interfaces. **Welcome to my Git
 
 ## About me 
 
-
-<div  width="50%">
-  
 - 🔭 I'm currently working in the fintech industry (Rolengi).  
 - 🌱 I'm constantly learning and improving my skills in Next JS, React JS, and Typescript
 - 💬 Ask me about web development, UI/UX design, or anything related to the web.
 - 📫 How to reach me: sam.x.njuguna@gmail.com.
 - 😄 Pronouns: He/Him.
-</div>
+
 
 ## Skills
 

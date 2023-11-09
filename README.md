@@ -31,7 +31,7 @@ Here are some of the technologies and tools I'm proficient in:
 
 
 - 🔧 Tools: VS Code, Git, GitHub, and  Figma.
-- 🧰 Frameworks and Libraries: [List any other frameworks or libraries you are familiar with]
+- 🧰 Frameworks and Libraries: []
 
 
 | <a href="https://github.com/sam-njuguna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sam-njuguna&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/sam-njuguna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-njuguna&layout=compact&theme=transparent&hide_border=true" /></a> |

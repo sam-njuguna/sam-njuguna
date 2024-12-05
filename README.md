@@ -9,9 +9,9 @@ dedicated to craft stunning and user-friendly interfaces. **Welcome to my  profi
 
 ## About me 
 
-- 🔭 I'm currently working in the fintech industry (Rolengi).  
-- 🌱 I'm constantly learning and improving my skills in Next JS, React JS, and Typescript
-- 💬 Ask me about web development, UI/UX design, or anything related to the web.
+- 🔭 I'm currently working at NvisionHR.  
+- 🌱 I'm constantly learning and improving my skills in Next.JS, Hono.JS, and Typescript
+- 💬 Ask me about software, system design, UI/UX design, or anything related to the web.
 - 📫 How to reach me: sam.x.njuguna@gmail.com.
 - 😄 Pronouns: He/Him.
 

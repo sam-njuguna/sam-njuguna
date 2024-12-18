@@ -29,7 +29,7 @@ Here are some of the technologies and tools I'm proficient in:
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 -->
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=reactjs,nextjs,threejs,typescript,nodejs,bun,tailwindcss,docker,postgres,prisma,git&theme=dark)](https://skillicons.dev)
 
 - 🔧 Tools: VS Code, Git, GitHub, and  Figma.
 - 🧰 Frameworks and Libraries: []

@@ -1,10 +1,10 @@
 
 <!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=700&size=40&pause=1000&color=EB5939&center=true&vCenter=true&repeat=false&random=false&width=650&height=60&lines=Hello%2C+I'm+Samson+Njuguna+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=40&duration=1996&pause=500&color=FF772E&multiline=true&width=435&lines=Hello%F0%9F%91%8B%2C;+I'm+Samson+Njuguna)](https://git.io/typing-svg)
 
-I'm an enthusiastic front-end web developer, <br/>
-dedicated to craft stunning and user-friendly interfaces. **Welcome to my  profile!** 
+I'm an enthusiastic full-stack developer, <br/>
+dedicated to crafting stunning and user-friendly interfaces. **Welcome to my  profile!** 
 
 
 ## About me 

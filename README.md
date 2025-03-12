@@ -50,7 +50,7 @@ You can find me on various social media platforms:
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:sam.x.njuguna@gmail.com)
 
 
-Feel free to reach out to me for collaboration or just to say hello!
+<!--Feel free to reach out to me for collaboration or just to say hello! -->
 
 
 

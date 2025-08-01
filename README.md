@@ -11,7 +11,7 @@ dedicated to crafting stunning and user-friendly interfaces. **Welcome to my  pr
 
 - 🔭 I'm currently working at NvisionHR.  
 - 🌱 I'm constantly learning and improving my skills in Next.JS, Hono.JS, and Typescript
-- 💬 Ask me about software, system design, UI/UX design, or anything related to the web.
+- 💬 Ask me about system design, UI/UX design, or anything related to the web.
 - 📫 How to reach me: sam.x.njuguna@gmail.com.
 - 😄 Pronouns: He/Him.
 

@@ -13,7 +13,7 @@ dedicated to crafting stunning and user-friendly interfaces. **Welcome to my  pr
 - 🌱 I'm constantly learning and improving my skills in Next.JS, Hono.JS, and Typescript
 - 💬 Ask me about system design, UI/UX design, or anything related to the web.
 - 📫 How to reach me: sam.x.njuguna@gmail.com.
-- 📑 Resume me: [resume.samnj.dev]
+- 📑 Resume me: [resume.samnj.dev](https://resume.samnj.dev/)
 - 😄 Pronouns: He/Him.
 
 

@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=40&duration=1996&pause=500&color=FF772E&multiline=true&width=435&height=114&lines=Hello%F0%9F%91%8B%2C;+I'm+Samson+Njuguna)](https://git.io/typing-svg)
 
-I'm an enthusiastic full-stack developer, <br/>
+I'm an enthusiastic senior full-stack developer, <br/>
 dedicated to crafting stunning and user-friendly interfaces. **Welcome to my  profile!** 
 
 

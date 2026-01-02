@@ -1,4 +1,4 @@
-h
+
 <!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=40&duration=1996&pause=500&color=CCDBDC&multiline=true&width=435&height=114&lines=Hi%F0%9F%91%8B%2C;+I'm+Samson+Njuguna)](https://git.io/typing-svg)

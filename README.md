@@ -10,8 +10,8 @@ dedicated to crafting stunning and user-friendly interfaces. **Welcome to my Git
 ## About me 
 
 - 🔭 I'm currently working at NvisionHR.  
-- 🌱 I'm constantly learning and improving my skills in Next.js, Hono.js, Python, and Typescript
-- 💬 Ask me about system design, UI/UX design, or anything related to the web.
+- 🌱 I'm constantly learning and improving my skills in Agentic Engineering.
+- 💬 Ask me about system design, UI/UX design, or Agent design.
 - 📫 How to reach me: sam.x.njuguna@gmail.com.
 - 📑 Resume me: [resume.samnj.dev](https://resume.samnj.dev/)
 <!-- - 😄 Pronouns: He/Him. -->

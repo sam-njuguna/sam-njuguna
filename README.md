@@ -21,15 +21,7 @@ dedicated to crafting stunning and user-friendly interfaces. **Welcome to my pro
 
 Here are some of the technologies and tools I'm proficient in:
 
-<!-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
--->
+
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,threejs,typescript,nodejs,python,bun,tailwindcss,docker,postgres,prisma,git&theme=dark)](https://skillicons.dev)
 
 - 🔧 Tools: Devin/Cursor/Claude-Code, Git, GitHub, and  Figma.

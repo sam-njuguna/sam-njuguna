@@ -14,7 +14,6 @@ dedicated to crafting stunning and user-friendly interfaces. **Welcome to my pro
 - 💬 Ask me about system design, UI/UX design, or Agent design.
 - 📫 How to reach me: sam.x.njuguna@gmail.com.
 - 📑 Resume me: [resume.samnj.dev](https://resume.samnj.dev/)
-<!-- - 😄 Pronouns: He/Him. -->
 
 
 ## Skills

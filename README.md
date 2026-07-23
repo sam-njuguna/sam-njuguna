@@ -22,7 +22,7 @@ Here are some of the technologies and tools I'm proficient in:
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,threejs,typescript,nodejs,python,bun,tailwindcss,docker,postgres,prisma,git&theme=dark)](https://skillicons.dev)
 
-- 🔧 Tools: Devin/Cursor/Claude-Code, Git, GitHub, and  Figma.
+- 🔧 Tools: Devin/Cursor/Claude-Code, GitHub, and Figma.
 - 🧰 Frameworks and Libraries: Next.js and React.js
 
 

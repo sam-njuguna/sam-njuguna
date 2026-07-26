@@ -44,7 +44,7 @@ You can find me on various social media platforms:
 
 Here are some of the personal projects that I've worked on:
 
-- [Safaricana](): Enthralling Exploration of Africa.
-- [Mireya](): Tailored to help homeowners showcase their unique style and transform their living spaces into stunning works of art.
+- Safaricana: Enthralling Exploration of Africa.
+- Mireya: Tailored to help homeowners showcase their unique style and transform their living spaces into stunning works of art.
 
 **Thank you for visiting my GitHub profile! 😊**

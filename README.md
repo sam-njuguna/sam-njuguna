@@ -37,14 +37,4 @@ You can find me on various social media platforms:
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:sam.x.njuguna@gmail.com)
 
 
-
-
-
-## My Projects
-
-Here are some of the personal projects that I've worked on:
-
-- Safaricana: Enthralling Exploration of Africa.
-- Mireya: Tailored to help homeowners showcase their unique style and transform their living spaces into stunning works of art.
-
 **Thank you for visiting my GitHub profile! 😊**

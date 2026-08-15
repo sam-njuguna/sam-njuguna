@@ -17,7 +17,7 @@ dedicated to crafting stunning and user-friendly interfaces. **Welcome to my pro
 
 ## Skills
 
-Here are some of the technologies and tools I'm proficient in:
+Here are some of the skills and tools I'm proficient in:
 
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,threejs,typescript,nodejs,python,bun,tailwindcss,docker,postgres,prisma,git&theme=dark)](https://skillicons.dev)

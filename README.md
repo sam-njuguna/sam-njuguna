@@ -11,8 +11,8 @@ dedicated to crafting stunning and user-friendly interfaces. **Welcome to my pro
 
 - 🔭 I'm currently working at NvisionHR.  
 - 🌱 I'm constantly learning and improving my skills in Agentic/Hernes Engineering.
-- 💬 Ask about system design, UI/UX design, or Agent harness.
-- 📑 Resume : [resume.samnj.dev](https://resume.samnj.dev/)
+- 💬 Ask about system design, UI/UX design, full-stack Development, or Agent harness.
+- 📑 Resume : [resume.samnj.dev](https://resume.samnj.dev/) 
 
 
 ## Skills

@@ -20,7 +20,7 @@ dedicated to crafting stunning and user-friendly interfaces. **Welcome to my pro
 Here are some of the skills and tools I'm proficient in:
 
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,threejs,typescript,nodejs,python,bun,tailwindcss,docker,postgres,prisma,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,threejs,typescript,nodejs,python,bun,tailwindcss,docker,ci/cd,postgres,prisma,git&theme=dark)](https://skillicons.dev)
 
 - 🔧 Tools: Devin/Cursor/Claude-Code/opencode/pi, GitHub, and Figma.
 - 🧰 Frameworks and Libraries: Next.js and React.js

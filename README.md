@@ -1,40 +1,34 @@
+<!-- GitHub profile README. Paste into the repo sam-njuguna/sam-njuguna -->
 
- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> 
+### Sam Njuguna
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=40&duration=1996&pause=500&color=844CC6&multiline=true&width=435&height=114&lines=Hi%F0%9F%91%8B%2C;+I'm+Sam+Njuguna)](https://git.io/typing-svg)
+<p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=800&color=844CC6&width=440&height=70&lines=Building+agentic+AI+systems;RAG%2C+MCP+tools+and+LLM+workflows;Full-stack+TypeScript+and+Python" alt="Building agentic AI systems" height="70"></a><br>
+<a href="https://www.samnj.dev"><img src="https://img.shields.io/badge/Portfolio-844CC6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/sam-nj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:sam.x.njuguna@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://resume.samnj.dev/"><img src="https://img.shields.io/badge/Resume-F59E0B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"></a>
+</p>
 
-I'm an enthusiastic senior full-stack engineer, <br/>
-dedicated to crafting stunning and user-friendly interfaces. **Welcome to my profile!** 
+Thanks for visiting. Let's build something great ✨
 
+---
 
-## About me 
+### About me
 
-- 🔭 I'm currently working at NvisionHR Advisory AI.  
-- 🌱 I'm constantly learning and improving my skills in Agentic/Hernes Engineering.
-- 💬 Ask about system design, UI/UX design, full-stack Development, or Agent harness.
-- 📑 Resume : [resume.samnj.dev](https://resume.samnj.dev/) 
+I'm a backend-leaning full-stack engineer with **5+ years** of shipping production systems. I build AI features end to end, from retrieval and generation to auth, billing and deployment, and I turn product needs from non-technical teams into tools people actually use.
 
+![Role](https://img.shields.io/badge/Role-Lead_Software_Engineer_at_Pathrel-844CC6?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Agentic_and_harness_engineering-0A66C2?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Nairobi,_Kenya-181717?style=flat-square)
+![Ask](https://img.shields.io/badge/Ask-System_design,_RAG,_AI_agents-F59E0B?style=flat-square)
 
-## Skills
+For projects, writing and more detail, visit **[samnj.dev](https://www.samnj.dev)**.
 
-Here are some of the skills and tools I'm proficient in:
+<div align="center">
 
+<img src="https://mermaid.ink/svg/JSV7aW5pdDogeyd0aGVtZSc6ICdkYXJrJywgJ3RoZW1lVmFyaWFibGVzJzogeydmb250U2l6ZSc6ICcxMHB4JywgJ2NTY2FsZTAnOiAnIzZkMjhkOScsICdjU2NhbGUxJzogJyMxNjY1MzQnLCAnY1NjYWxlMic6ICcjOWEzNDEyJywgJ2NTY2FsZTMnOiAnIzBjNGE2ZScsICdjU2NhbGU0JzogJyM5ZjEyMzknLCAnY1NjYWxlNSc6ICcjMWU0MGFmJywgJ2NTY2FsZTYnOiAnIzBmNzY2ZScsICdjU2NhbGU3JzogJyM1ODFjODcnfX19JSUKbWluZG1hcAogIHJvb3QoKE15IHN0YWNrKSkKICAgIEZyb250ZW5kCiAgICAgIFR5cGVTY3JpcHQKICAgICAgUmVhY3QgMTkKICAgICAgTmV4dC5qcwogICAgICBSZWFjdCBOYXRpdmUKICAgICAgVGFpbHdpbmQgQ1NTCiAgICBCYWNrZW5kCiAgICAgIE5vZGUuanMKICAgICAgUHl0aG9uCiAgICAgIHRSUEMKICAgICAgUkVTVCBBUElzCiAgICBEYXRhCiAgICAgIFBvc3RncmVTUUwKICAgICAgUHJpc21hCiAgICAgIFRhblN0YWNrIFF1ZXJ5CiAgICBBSQogICAgICBMTE0gSW50ZWdyYXRpb24KICAgICAgUkFHIFdvcmtmbG93cwogICAgICBBSSBBZ2VudHMKICAgICAgTUNQCiAgICAgIFZlY3RvciBEQnMKICAgICAgRXZhbHMKICAgIENsb3VkCiAgICAgIEdvb2dsZSBDbG91ZAogICAgICBEb2NrZXIKICAgICAgVHVyYm9yZXBvCiAgICBUZXN0aW5nCiAgICAgIFZpdGVzdAogICAgICBQbGF5d3JpZ2h0CiAgICBUb29scwogICAgICBHaXQKICAgICAgR2l0SHViCiAgICAgIEZpZ21hCiAgICAgIENsYXVkZSBDb2RlCg==?bgColor=0d1117" alt="My stack mindmap: AI Engineer at the center, branching into Frontend, Backend, Data, State, AI, Cloud, Testing and Tools">
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,threejs,typescript,nodejs,python,bun,tailwindcss,docker,ci/cd,postgres,prisma,git&theme=dark)](https://skillicons.dev)
+<small>Tools I live in: Claude Code · Cursor · Devin · opencode · Figma</small>
 
-- 🔧 Tools: Devin/Cursor/Claude-Code/opencode/pi, GitHub, and Figma.
-- 🧰 Frameworks and Libraries: Next.js and React.js
-
-
-
-## Let's Connect 
-
-You can find me on various social media platforms:
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge)](https://www.samnj.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sam-nj)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sam-njuguna)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:sam.x.njuguna@gmail.com)
-
-
-**Thank you for visiting my GitHub profile! 😊**
+</div>

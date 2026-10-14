@@ -16,14 +16,14 @@ Thanks for visiting. Let's build something great ✨
 
 ### About me
 
-I'm a backend-leaning full-stack engineer with **5+ years** of shipping production systems. I build AI features end to end, from retrieval and generation to auth, billing and deployment, and I turn product needs from non-technical teams into tools people actually use.
+I'm a backend-leaning full-stack engineer with **5+ years** of shipping production systems. I build AI features end-to-end, from retrieval and generation to auth, billing, and deployment, and I turn non-technical teams' product needs into tools people actually use.
 
 ![Role](https://img.shields.io/badge/Role-Lead_Software_Engineer_at_Pathrel-844CC6?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-Agentic_and_harness_engineering-0A66C2?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Nairobi,_Kenya-181717?style=flat-square)
 ![Ask](https://img.shields.io/badge/Ask-System_design,_RAG,_AI_agents-F59E0B?style=flat-square)
 
-For projects, writing and more detail, visit **[samnj.dev](https://www.samnj.dev)**.
+For projects, writing and more details, visit **[samnj.dev](https://www.samnj.dev)**.
 
 <div align="center">
 
